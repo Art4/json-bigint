@@ -1,15 +1,15 @@
 {
     "name": "Art4/json-bigint",
     "type": "library",
-    "description": "Prepare JSON with BIGINT",
+    "description": "Prepare a JSON string with big integers",
     "homepage": "https://github.com/Art4/json-bigint",
     "keywords": ["json"],
     "license": "GPL3",
     "authors": [
         {
             "name": "Artur Weigandt",
-            "email": "art4@youthweb.net",
-            "homepage": "http://wlabs.de"
+            "email": "art4@wlabs.de",
+            "homepage": "https://wlabs.de"
         }
     ],
     "require": {
