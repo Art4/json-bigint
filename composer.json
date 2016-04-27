@@ -1,0 +1,26 @@
+{
+    "name": "Art4/json-bigint",
+    "type": "library",
+    "description": "Prepare JSON with BIGINT",
+    "homepage": "https://github.com/Art4/json-bigint",
+    "keywords": ["json"],
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Artur Weigandt",
+            "email": "art4@youthweb.net",
+            "homepage": "http://wlabs.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Art4\\JsonBigInt\\": "src"
+        }
+    }
+}
